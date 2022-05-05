@@ -1,0 +1,17 @@
+.toc{
+    background-color: blueviolet;
+    /*visibility: hidden;*/
+    /*display: none;*/
+    float: right;
+}
+
+.line{
+    background-color: bisque;
+    color: brown;
+}
+
+.block{
+    display: block;
+    background-color: palevioletred;
+    color: navy;
+}

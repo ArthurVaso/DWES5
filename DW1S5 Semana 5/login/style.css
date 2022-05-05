@@ -1,0 +1,8 @@
+span#msg{
+    color: red;
+    font-size: 0.7em;
+}
+
+.oculto{
+    visibility: hidden;
+}

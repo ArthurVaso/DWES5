@@ -1,0 +1,36 @@
+div{
+    text-align: justify;
+    border-style: solid;
+    border-radius: 1em;
+    border-width: 2px;
+}
+
+p{
+
+    text-indent: 2em;
+    font-weight: bold; /* negrito */
+    font-style: italic;
+}
+
+table, th, td{
+    border-collapse: collapse;
+    border: solid 1px;
+}
+
+th, td{
+    padding: .5em;
+}
+
+.dir{
+    text-align: right;
+}
+
+/*
+table{
+    background-color: black;
+}
+
+th, tr{
+    background-color: white;
+}
+*/

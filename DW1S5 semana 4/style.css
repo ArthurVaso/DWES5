@@ -1,0 +1,24 @@
+@media only screen and (max-width: 600px) {
+    h1{
+        color: crimson;
+    }
+}
+
+.conteiner > div {
+    background-color: rgb(15, 158, 75);
+    padding: 20px;
+    margin: 10px;
+    border-radius: .5em;
+    font-size: 2em;
+}
+
+.conteiner p{
+    text-align: center;
+}
+
+.conteiner {
+    display: flex;
+    align-content: space-around;
+    justify-content: center;
+    flex-wrap: wrap;
+}

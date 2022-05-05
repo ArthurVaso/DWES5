@@ -1,0 +1,9 @@
+.container > img {
+    width: 20vw;
+}
+
+.container {
+    margin-top: 5wh;
+    display: flex;
+    flex-wrap: wrap;
+}
